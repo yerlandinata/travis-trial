@@ -1,3 +1,6 @@
+def ccd():
+    print('ccd')
+
 def addition(a, b):
     return a + b
 
@@ -8,3 +11,4 @@ def run():
     for i in range(10):
         log(i)
 
+run()
